@@ -19,7 +19,8 @@ These exploits currently work:
 - ChannelCommander on every server
 - Client Description on every server
 - Talkpower on every channel
-- Avatar on every server
+- Avatar on every server  
+
 Also, no rights are needed for these exploits.
 
 
