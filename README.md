@@ -1,5 +1,6 @@
 # AGodZilla
 With AGodZilla TeamSpeak 3 clients can connect to a self-dialed number. AGodZilla also has many other features, such as setting all badges.  
+https://www.youtube.com/channel/UCgfXkVhgB1urzdvCJt6gR_w  
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `The tool will soon be published on Youtube..`  
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `The old version of GodZilla does not work anymore on the newest servers.`  
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `In addition, there are many more possibilities with AGodZilla.`  
@@ -23,8 +24,6 @@ These exploits currently work:
 
 Also, no rights are needed for these exploits.
 ![AGodZilla](https://files.catbox.moe/qfzaxg.png)
-
-https://www.youtube.com/channel/UCgfXkVhgB1urzdvCJt6gR_w
 
 ![AGodZilla](https://files.catbox.moe/du121t.png)
 ![AGodZilla](https://files.catbox.moe/lna1qs.png)
