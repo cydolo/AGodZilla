@@ -21,6 +21,7 @@ These exploits currently work:
 - ChannelCommander on every server
 - Client Description on every server
 - Talkpower on every channel
+- TalkpowerRequest on every channel (with message)
 - Avatar on every server  
 - Client Undefined 
    The client Undefined exploit connects the bot to the server and can not be controlled, the bot will remain on the server forever unless an admin kicks it. The connection information can not be retrieved. The client can not be banned normally, the ban is set, but the bot is not thrown by the server, after a kick, the bot can not connect anymore when he is banned.   
@@ -29,7 +30,7 @@ These exploits currently work:
    ![AGodZilla](https://files.catbox.moe/yk4u7d.PNG)
 
 Also, no rights are needed for these exploits.
-# Images
+# Images (not up to date)
 ![AGodZilla](https://files.catbox.moe/qfzaxg.png)
 
 ![AGodZilla](https://files.catbox.moe/du121t.png)
