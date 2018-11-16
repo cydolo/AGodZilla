@@ -12,6 +12,7 @@ The development is almost finished, only small things are improved.
 - [x] Join System
 - [x] Command System
 - [ ] TextMessage System 
+- [ ] Audio System
 
 # Exploits
 
@@ -21,8 +22,14 @@ These exploits currently work:
 - Client Description on every server
 - Talkpower on every channel
 - Avatar on every server  
+- Client Undefined 
+   The client Undefined exploit connects the bot to the server and can not be controlled, the bot will remain on the server forever unless an admin kicks it. The connection information can not be retrieved. The client can not be banned normally, the ban is set, but the bot is not thrown by the server, after a kick, the bot can not connect anymore when he is banned.   
+    
+   if client undefined is connected, a message is displayed in the log "please do not hack me" 😄
+   ![AGodZilla](https://files.catbox.moe/yk4u7d.PNG)
 
 Also, no rights are needed for these exploits.
+# Images
 ![AGodZilla](https://files.catbox.moe/qfzaxg.png)
 
 ![AGodZilla](https://files.catbox.moe/du121t.png)
