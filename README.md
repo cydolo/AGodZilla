@@ -12,7 +12,7 @@ The development is almost finished, only small things are improved.
 - [x] Join System
 - [x] Command System
 - [ ] TextMessage System 
-- [ ] Audio System
+- [x] Audio System
 
 # Exploits
 
