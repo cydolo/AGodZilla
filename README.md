@@ -19,12 +19,16 @@ The development is almost finished, only small things are improved.
 With the new development of AGodZilla we have found exploits. These exploits work on every server.
 These exploits currently work:
 - ChannelCommander on every server
+- Recording on every server
+  * this is not really an exploit, but the sound "user in your channel started recording" is only played when a user clicks on the bot
 - Client Description on every server
 - Talkpower on every channel
+  * You can use the audio system to play music from the bot. 
 - TalkpowerRequest on every channel (with message)
+  * The bot requests talkpower, even if no talkpower is needed in the channel.
 - Avatar on every server  
-- Client Undefined 
-   The client Undefined exploit connects the bot to the server and can not be controlled, the bot will remain on the server forever unless an admin kicks it. The connection information can not be retrieved. The client can not be banned normally, the ban is set, but the bot is not thrown by the server, after a kick, the bot can not connect anymore when he is banned.   
+- Client Undefined  
+  * The client Undefined exploit connects the bot to the server and can not be controlled, the bot will remain on the server forever unless an admin kicks it. The connection information can not be retrieved. The client can not be banned normally, the ban is set, but the bot is not thrown by the server, after a kick, the bot can not connect anymore when he is banned.   
     
    if client undefined is connected, a message is displayed in the log "please do not hack me" 😄
    ![AGodZilla](https://files.catbox.moe/yk4u7d.PNG)
