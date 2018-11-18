@@ -38,7 +38,7 @@ These exploits currently work:
 
 ![AGodZilla](https://files.catbox.moe/qfzaxg.png)
 
-# Images (not up to date)
+# Images (18.11.18)
 ![AGodZilla](https://files.catbox.moe/e142ph.png)
 ![AGodZilla](https://files.catbox.moe/jyjcvr.png)
 ![AGodZilla](https://files.catbox.moe/847i49.png)
