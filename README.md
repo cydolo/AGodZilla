@@ -31,11 +31,18 @@ These exploits currently work:
   * The client Undefined exploit connects the bot to the server and can not be controlled, the bot will remain on the server forever unless an admin kicks it. The connection information can not be retrieved. The client can not be banned normally, the ban is set, but the bot is not thrown by the server, after a kick, the bot can not connect anymore when he is banned.   
     
    if client undefined is connected, a message is displayed in the log "please do not hack me" 😄
-   ![AGodZilla](https://files.catbox.moe/yk4u7d.PNG)
+   ![AGodZilla](https://files.catbox.moe/yk4u7d.PNG)  
+   
+   **Also, no rights are needed for these exploits.**  
+**The connection data can not be retrieved either.**  
 
-Also, no rights are needed for these exploits.
-# Images (not up to date)
 ![AGodZilla](https://files.catbox.moe/qfzaxg.png)
 
-![AGodZilla](https://files.catbox.moe/du121t.png)
-![AGodZilla](https://files.catbox.moe/lna1qs.png)
+# Images (not up to date)
+![AGodZilla](https://files.catbox.moe/e142ph.png)
+![AGodZilla](https://files.catbox.moe/jyjcvr.png)
+![AGodZilla](https://files.catbox.moe/847i49.png)
+![AGodZilla](https://files.catbox.moe/nthds5.png)
+![AGodZilla](https://files.catbox.moe/27r3pw.png)
+![AGodZilla](https://files.catbox.moe/wc7bfg.png)
+![AGodZilla](https://files.catbox.moe/8qmxx4.png)
