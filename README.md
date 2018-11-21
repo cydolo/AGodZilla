@@ -32,8 +32,10 @@ These exploits currently work:
     
    if client undefined is connected, a message is displayed in the log "please do not hack me" 😄
    ![AGodZilla](https://files.catbox.moe/yk4u7d.PNG)  
-   
-   **Also, no rights are needed for these exploits.**  
+- Self Kick
+  * With self kick the client is kicked by the server with the message **protocol violation**  
+  
+**Also, no rights are needed for these exploits.**  
 **The connection data can not be retrieved either.**  
 
 ![AGodZilla](https://files.catbox.moe/qfzaxg.png)
