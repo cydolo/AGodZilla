@@ -1,6 +1,12 @@
-# AGodZilla
-With AGodZilla TeamSpeak 3 clients can connect to a self-dialed number. AGodZilla also has many other features, such as setting all badges.  
-https://www.youtube.com/channel/UCgfXkVhgB1urzdvCJt6gR_w  
+<p align="center">
+  <br>
+  <img alt="Logo" src="https://files.catbox.moe/1tk07f.png" />
+  <br><br><br>
+</p>
+
+- [Youtube](https://www.youtube.com/channel/UCgfXkVhgB1urzdvCJt6gR_w)  
+- [Twitter](https://twitter.com/cydolo)     
+
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `The tool will soon be published on Youtube..`  
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `The old version of GodZilla does not work anymore on the newest servers.`  
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `In addition, there are many more possibilities with AGodZilla.`  
@@ -16,23 +22,29 @@ The development is almost finished, only small things are improved.
 
 # Exploits
 
-With the new development of AGodZilla we have found exploits. These exploits work on every server.
+### License
+![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `Can only be used with a license`    
+ - You can also use AGodZilla completely without a license, only the exploits will not be usable for you, you can apply for the license on Twitter.  
+The licensing system runs on a TeamSpeak identity. To license the license, I only need the UUID of the identity
+
+### Current Exploits
+With the new development of AGodZilla we have found exploits. These exploits work on every server.  
 These exploits currently work:
-- ChannelCommander on every server
+- #### ChannelCommander on every server
 - Recording on every server
   * this is not really an exploit, but the sound "user in your channel started recording" is only played when a user clicks on the bot
-- Client Description on every server
-- Talkpower on every channel
+- #### Client Description on every server
+- #### Talkpower on every channel
   * You can use the audio system to play music from the bot. 
-- TalkpowerRequest on every channel (with message)
+- #### TalkpowerRequest on every channel (with message)
   * The bot requests talkpower, even if no talkpower is needed in the channel.
-- Avatar on every server  
-- Client Undefined  
+- #### Avatar on every server  
+- #### Client Undefined  
   * The client Undefined exploit connects the bot to the server and can not be controlled, the bot will remain on the server forever unless an admin kicks it. The connection information can not be retrieved. The client can not be banned normally, the ban is set, but the bot is not thrown by the server, after a kick, the bot can not connect anymore when he is banned.   
     
    if client undefined is connected, a message is displayed in the log "please do not hack me" 😄
    ![AGodZilla](https://files.catbox.moe/yk4u7d.PNG)  
-- Self Kick
+- #### Self Kick
   * With self kick the client is kicked by the server with the message **protocol violation**  
   
 **Also, no rights are needed for these exploits.**  
