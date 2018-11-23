@@ -16,14 +16,16 @@
 The development is almost finished, only small things are improved.
 - [x] UI design
 - [x] Join System
+- [x] Identity System
 - [x] Command System
 - [ ] TextMessage System 
 - [x] Audio System
+- [x] License System
 
 # Exploits
 
 ### License
-![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `Can only be used with a license`    
+![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `Exploits can only be used with a license`    
  - You can also use AGodZilla completely without a license, only the exploits will not be usable for you, you can apply for the license on Twitter.  
 The licensing system runs on a TeamSpeak identity. To license the license, I only need the UUID of the identity
 
@@ -31,7 +33,7 @@ The licensing system runs on a TeamSpeak identity. To license the license, I onl
 With the new development of AGodZilla we have found exploits. These exploits work on every server.  
 These exploits currently work:
 - #### ChannelCommander on every server
-- Recording on every server
+- #### Recording on every server
   * this is not really an exploit, but the sound "user in your channel started recording" is only played when a user clicks on the bot
 - #### Client Description on every server
 - #### Talkpower on every channel
