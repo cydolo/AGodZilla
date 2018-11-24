@@ -26,8 +26,11 @@ The development is almost finished, only small things are improved.
 
 ### License
 ![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `Exploits can only be used with a license`    
- - You can also use AGodZilla completely without a license, only the exploits will not be usable for you, you can apply for the license on Twitter.  
-The licensing system runs on a TeamSpeak identity. To license the license, I only need the UUID of the identity
+- You can also use AGodZilla completely without a license, only the exploits will not be usable for you, you can apply for the license on Twitter.
+  * The license costs only 4€     
+  
+The licensing system runs on a TeamSpeak identity. to license the license, I only need the UUID of the identity.   
+Then you just have to upload the identity into AGodZilla, if the license is correct, you can use the exploits.
 
 ### Current Exploits
 With the new development of AGodZilla we have found exploits. These exploits work on every server.  
