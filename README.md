@@ -1,8 +1,11 @@
 <p align="center">
   <br>
   <img alt="Logo" src="https://files.catbox.moe/1tk07f.png" />
-  <br><br><br>
-</p>
+  <br>
+    <b>Version: 2.2.0 </b>
+  <br><br>
+ </p>
+
 
 - [Youtube](https://www.youtube.com/channel/UCgfXkVhgB1urzdvCJt6gR_w)  
 - [Twitter](https://twitter.com/cydolo)     
@@ -55,13 +58,13 @@ These exploits currently work:
 **Also, no rights are needed for these exploits.**  
 **The connection data can not be retrieved either.**  
 
-![AGodZilla](https://files.catbox.moe/qfzaxg.png)
+![AGodZilla](https://files.catbox.moe/yy85c2.png)
 
-# Images (18.11.18)
-![AGodZilla](https://files.catbox.moe/e142ph.png)
-![AGodZilla](https://files.catbox.moe/jyjcvr.png)
-![AGodZilla](https://files.catbox.moe/847i49.png)
-![AGodZilla](https://files.catbox.moe/nthds5.png)
-![AGodZilla](https://files.catbox.moe/27r3pw.png)
-![AGodZilla](https://files.catbox.moe/wc7bfg.png)
-![AGodZilla](https://files.catbox.moe/8qmxx4.png)
+# Images (27.11.18)
+![AGodZilla](https://files.catbox.moe/txfmor.png)
+![AGodZilla](https://files.catbox.moe/y03mjy.png)
+![AGodZilla](https://files.catbox.moe/epbifb.png)
+![AGodZilla](https://files.catbox.moe/683xci.png)
+![AGodZilla](https://files.catbox.moe/as3xjm.png)
+![AGodZilla](https://files.catbox.moe/rmdyqu.png)
+![AGodZilla](https://files.catbox.moe/x0rpkw.png)
