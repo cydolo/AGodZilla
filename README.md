@@ -10,18 +10,18 @@
 - [Youtube](https://www.youtube.com/channel/UCgfXkVhgB1urzdvCJt6gR_w)  
 - [Twitter](https://twitter.com/cydolo)     
 
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `The tool will soon be published on Youtube..`  
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Release date is 14.12.2018 : 18:00 Uhr MEZ`  
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `The old version of GodZilla does not work anymore on the newest servers.`  
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `In addition, there are many more possibilities with AGodZilla.`  
 
 
 # Development
-The development is almost finished, only small things are improved.
+The development is `finished` release date is `14.12.2018 : 18:00 Uhr MEZ` on [Youtube](https://www.youtube.com/channel/UCgfXkVhgB1urzdvCJt6gR_w)
 - [x] UI design
 - [x] Join System
 - [x] Identity System
 - [x] Command System
-- [ ] TextMessage System 
+- [x] TextMessage System 
 - [x] Audio System
 - [x] License System
 
