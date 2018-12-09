@@ -10,7 +10,7 @@
 - [Youtube](https://www.youtube.com/channel/UCgfXkVhgB1urzdvCJt6gR_w)  
 - [Twitter](https://twitter.com/cydolo)     
 
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Release date is 14.12.2018 : 18:00 Uhr MEZ`  
+![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `Release date is 14.12.2018 : 18:00 Uhr MEZ`  
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `The old version of GodZilla does not work anymore on the newest servers.`  
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `In addition, there are many more possibilities with AGodZilla.`  
 
