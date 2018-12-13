@@ -24,6 +24,8 @@ The development is `finished` release date is `14.12.2018 : 18:00 Uhr MEZ` on [Y
 - [x] TextMessage System 
 - [x] Audio System
 - [x] License System
+- [x] Party System
+- [x] Servers System
 
 # Exploits
 
