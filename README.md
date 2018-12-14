@@ -26,7 +26,9 @@ The development is `finished` release date is `14.12.2018 : 18:00 Uhr MEZ` on [Y
 - [x] License System
 - [x] Party System
 - [x] Servers System
-
+- [ ] AView 
+   * See all clients and activities of users without being connected.  
+     when it is published is unclear 
 # Exploits
 
 ### License
