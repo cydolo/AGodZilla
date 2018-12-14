@@ -37,7 +37,7 @@
 ![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `Exploits can only be used with a license`    
 - You can also use AGodZilla completely without a license, only the exploits will not be usable for you, you can apply for the license on [Youtube](https://www.youtube.com/channel/UCgfXkVhgB1urzdvCJt6gR_w).  
 **All you have to do is comment on your Skype name and I will contact you.**
-  * The license costs only 4€     
+  * okay @everyone, asking for money is not my style, Hakan also does not want to have any money. so it's all free, just write your skypename under the video and you'll get the license. =) 
   
 The licensing system runs on a TeamSpeak identity. to license the license, I only need the UUID of the identity.   
 Then you just have to upload the identity into AGodZilla, if the license is correct, you can use the exploits.
