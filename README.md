@@ -3,9 +3,11 @@
   <img alt="Logo" src="https://files.catbox.moe/1tk07f.png" />
   <br>
     <b>Version: 2.2.0 </b>
+  <br>
+  <a target="_blank" href="https://github.com/cydolo/AGodZilla/releases">Download</a>
   <br><br>
  </p>
-
+ 
 
 - [Youtube](https://www.youtube.com/channel/UCgfXkVhgB1urzdvCJt6gR_w)  
 - [Twitter](https://twitter.com/cydolo)     
@@ -16,7 +18,7 @@
 
 
 # Development
-The development is `finished` release date is `14.12.2018 : 18:00 Uhr MEZ` on [Youtube](https://www.youtube.com/channel/UCgfXkVhgB1urzdvCJt6gR_w)
+
 - [x] UI design
 - [x] Join System
 - [x] Identity System
