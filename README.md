@@ -18,6 +18,7 @@
 
 # Attention
 TeamSpeak has resolved the exploits, the exploits only work on version 3.5.0 and later
+https://forum.teamspeak.com/threads/138368-TeamSpeak-3-server-3-5-1-hotfix-released?p=464166#post464166
 
 # Development
 
