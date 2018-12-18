@@ -16,6 +16,8 @@
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `The old version of GodZilla does not work anymore on the newest servers.`  
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `In addition, there are many more possibilities with AGodZilla.`  
 
+# Attention
+TeamSpeak has resolved the exploits, the exploits only work on version 3.5.0 and later
 
 # Development
 
