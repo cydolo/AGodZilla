@@ -17,7 +17,7 @@
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `In addition, there are many more possibilities with AGodZilla.`  
 
 # Attention
-TeamSpeak has resolved the exploits, the exploits only work on version 3.5.0 and later
+TeamSpeak has resolved the exploits, the exploits only work on version 3.5.0 and earlier
 
 - [TeamSpeak Hotfix](https://forum.teamspeak.com/threads/138368-TeamSpeak-3-server-3-5-1-hotfix-released?p=464166#post464166)  
 
