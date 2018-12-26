@@ -2,7 +2,7 @@
   <br>
   <img alt="Logo" src="https://files.catbox.moe/1tk07f.png" />
   <br>
-    <b>Version: 2.3.1 </b>
+    <b>Version: 2.4.0 </b>
   <br>
   <a target="_blank" href="https://github.com/cydolo/AGodZilla/releases">Download</a>
   <br><br>
