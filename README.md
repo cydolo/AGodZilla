@@ -32,9 +32,7 @@ TeamSpeak has resolved the exploits, the exploits only work on version 3.5.0 and
 - [x] License System
 - [x] Party System
 - [x] Servers System
-- [ ] AView 
-   * See all clients and activities of users without being connected.  
-     when it is published is unclear 
+- [x] AView [Beta] 
 # Exploits
 
 ### License
