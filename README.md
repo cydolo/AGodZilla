@@ -2,7 +2,7 @@
   <br>
   <img alt="Logo" src="https://files.catbox.moe/1tk07f.png" />
   <br>
-    <b>Version: 2.5.0 </b>
+    <b>Version: 2.5.1 </b>
   <br>
   <a target="_blank" href="https://github.com/cydolo/AGodZilla/releases">Download</a>
   <br><br>
@@ -32,7 +32,8 @@ TeamSpeak has resolved the exploits, the exploits only work on version 3.5.0 and
 - [x] License System
 - [x] Party System
 - [x] Servers System
-- [x] AView [Beta] 
+- [x] AView [Beta]   
+ ![AView](https://files.catbox.moe/xsi4yi.PNG)
 # Exploits
 
 ### License
