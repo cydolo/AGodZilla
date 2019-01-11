@@ -2,7 +2,7 @@
   <br>
   <img alt="Logo" src="https://files.catbox.moe/1tk07f.png" />
   <br>
-    <b>Version: 2.6.0 </b>
+    <b>Version: 2.7.0 </b>
   <br>
   <a target="_blank" href="https://github.com/cydolo/AGodZilla/releases">Download</a>
   <br><br>
@@ -38,9 +38,8 @@ TeamSpeak has resolved the exploits, the exploits only work on version 3.5.0 and
 
 ### License
 ![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `Exploits can only be used with a license`    
-- You can also use AGodZilla completely without a license, only the exploits will not be usable for you, you can apply for the license on [Youtube](https://www.youtube.com/channel/UCgfXkVhgB1urzdvCJt6gR_w).  
-**All you have to do is comment on your Skype name and I will contact you.**
-  * okay @everyone, asking for money is not my style, Hakan also does not want to have any money. so it's all free, just write your skypename under the video and you'll get the license. =) 
+  * okay @everyone, asking for money is not my style, Hakan also does not want to have any money. so it's all free
+  * License can be requested until 18.01.2019 > Skype: DcVlamingo
   
 The licensing system runs on a TeamSpeak identity. to license the license, I only need the UUID of the identity.   
 Then you just have to upload the identity into AGodZilla, if the license is correct, you can use the exploits.
