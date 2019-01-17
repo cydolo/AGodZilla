@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img alt="Logo" src="https://files.catbox.moe/1tk07f.png" />
+  <img width="200" height="100" alt="Logo" src="https://files.catbox.moe/1tk07f.png" />
   <br>
     <b>Version: 2.8.0 </b>
   <br>
@@ -13,13 +13,10 @@
 - [Twitter](https://twitter.com/cydolo)     
 
 ![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `Released at 14.12.2018`  
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `The old version of GodZilla does not work anymore on the newest servers.`  
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `In addition, there are many more possibilities with AGodZilla.`  
+![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `End of Project 17.01.2019`  
 
-# Attention
-TeamSpeak has resolved the exploits, the exploits only work on version 3.5.0 and earlier
-
-- [TeamSpeak Hotfix](https://forum.teamspeak.com/threads/138368-TeamSpeak-3-server-3-5-1-hotfix-released?p=464166#post464166)  
+# End of Project
+**The development of AGodZilla was discontinued today. AGodZilla should only be an extension of GodZilla, with the development we have also found some exploits that have already been fixed. There is nothing new that I could add. Today is the end. The development of AView has been discontinued. I tried to create my own TeamSpeak client, but it's just too much work to do it. Thanks for over 500 downloads!**
 
 # Development
 
@@ -33,18 +30,10 @@ TeamSpeak has resolved the exploits, the exploits only work on version 3.5.0 and
 - [x] Party System
 - [x] Servers System
 - [x] AView [Beta]   
- ![AView](https://files.catbox.moe/zpaqgf.PNG)
+   <a target="_blank" href="https://files.catbox.moe/zpaqgf.PNG">Image</a>
 # Exploits
 
-### License
-![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `Exploits can only be used with a license`    
-  * okay @everyone, asking for money is not my style, Hakan also does not want to have any money. so it's all free
-  * License can be requested until 18.01.2019 > Skype: DcVlamingo
-  
-The licensing system runs on a TeamSpeak identity. to license the license, I only need the UUID of the identity.   
-Then you just have to upload the identity into AGodZilla, if the license is correct, you can use the exploits.
-
-### Current Exploits
+### Current Exploits [Fixed]
 With the new development of AGodZilla we have found exploits. These exploits work on every server.  
 These exploits currently work:
 - #### ChannelCommander on every server
