@@ -2,7 +2,7 @@
   <br>
   <img width="200" height="100" alt="Logo" src="https://files.catbox.moe/1tk07f.png" />
   <br>
-    <b>Version: 2.9.0 </b>
+    <b>Version: 2.9.1 </b>
   <br>
   <a target="_blank" href="https://github.com/cydolo/AGodZilla/releases">Download</a>
   <br><br>
@@ -15,8 +15,9 @@
 ![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `Released at 14.12.2018`  
 ![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `End of Project 17.01.2019`  
 
-# End of Project
-**The development of AGodZilla was discontinued today. AGodZilla should only be an extension of GodZilla, with the development we have also found some exploits that have already been fixed. There is nothing new that I could add. Today is the end. The development of AView has been discontinued. I tried to create my own TeamSpeak client, but it's just too much work to do it. Thanks for over 500 downloads!**
+# Voting
+We need your vote.
+https://www.strawpoll.me/17391665
 
 # Development
 
