@@ -16,7 +16,7 @@
 ![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `End of Project 17.01.2019`  
 
 # Voting
-We need your vote.
+We need your vote.  
 https://www.strawpoll.me/17391665
 
 # Development
