@@ -53,7 +53,7 @@ Then you just have to upload the identity into AGodZilla, if the license is corr
 With the new development of AGodZilla we have found exploits. These exploits work on every server.  
 These exploits currently work:  
 
-| Command | Description | Status |
+| Exploit | Description | Status |
 | --- | --- | --- | 
 | `ChannelCommander` | Channel Commander in every channel | ![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) |
 | `Recording` | this is not really an exploit, but the sound "user in your channel started recording" is only played when a user clicks on the bot | ![#32CD32](https://placehold.it/15/32CD32/000000?text=+) |
