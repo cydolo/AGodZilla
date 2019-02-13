@@ -5,7 +5,7 @@
     <b>Version: 2.9.1 </b>
   <br>
 <a href="https://github.com/cydolo/AGodZilla/releases" target="_blank">
-  <img  align="center" src="https://pngimage.net/wp-content/uploads/2018/05/button-flat-png-7.png"/>
+  <img height="50" weight="50" align="center" src="https://pngimage.net/wp-content/uploads/2018/05/button-flat-png-7.png"/>
 </a>
 
 
@@ -16,7 +16,7 @@
 - [Youtube](https://www.youtube.com/channel/UCgfXkVhgB1urzdvCJt6gR_w)  
 - [Twitter](https://twitter.com/cydolo)     
 
-![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `Released at 14.12.2018`  
+![#DA70D6](https://placehold.it/15/48D1CC/000000?text=+) `Released at 14.12.2018`  
 
 # Voting
 We need your vote.  
