@@ -4,7 +4,11 @@
   <br>
     <b>Version: 2.9.1 </b>
   <br>
-  <a target="_blank" href="https://github.com/cydolo/AGodZilla/releases">Download</a>
+<a href="https://github.com/cydolo/AGodZilla/releases" target="_blank">
+  <img  align="center" src="https://pngimage.net/wp-content/uploads/2018/05/button-flat-png-7.png"/>
+</a>
+
+
   <br><br>
  </p>
  
