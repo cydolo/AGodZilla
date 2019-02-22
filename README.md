@@ -18,10 +18,6 @@
 
 ![#DA70D6](https://placehold.it/15/48D1CC/000000?text=+) `Released at 14.12.2018`  
 
-# Voting
-We need your vote.  
-https://www.strawpoll.me/17391665
-
 # Development
 
 - [x] UI design
