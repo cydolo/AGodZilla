@@ -12,15 +12,13 @@
   <br><br>
  </p>
  <a href="https://discord.gg/ZwgMfNz" target="_blank">
-<img  height="50" weight="50" src="https://discordapp.com/assets/bb408e0343ddedc0967f246f7e89cebf.svg"/>
+<img  height="30" weight="30" src="https://image.spreadshirtmedia.net/image-server/v1/mp/designs/137963376,width=178,height=178/discord-logo.png"/>
 </a>  
-<br>
  <a href="https://www.youtube.com/channel/UCgfXkVhgB1urzdvCJt6gR_w" target="_blank">
-<img  height="80" weight="80" src="https://www.sagerock.com/blog/wp-content/uploads/2016/11/YouTube-logo-full_color-1-768x478.png"/>
+<img  height="60" weight="60" src="http://www.logospng.com/images/3/black-youtube-logo-png-wwwimgkidcom-the-image-kid-3668.png"/>
 </a>
-<br>
  <a href="https://twitter.com/cydolo" target="_blank">
-<img  height="50" weight="50" src="https://upload.wikimedia.org/wikipedia/de/thumb/9/9f/Twitter_bird_logo_2012.svg/2000px-Twitter_bird_logo_2012.svg.png"/>
+<img  height="40" weight="40" src="http://i.imgur.com/tXSoThF.png"/>
 </a>    
 
 ![#DA70D6](https://placehold.it/15/48D1CC/000000?text=+) `Released at 14.12.2018`  
