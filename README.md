@@ -26,19 +26,21 @@
 ![#DA70D6](https://placehold.it/15/48D1CC/000000?text=+) `Released at 14.12.2018`  
 
 # Development
-- AGodZilla will soon become a better modified client, with more options, such as sending custom commands and a new UI  
+- AGodZilla will soon become a better modified client, with more options, such as sending custom commands and a new UI    
 
-- [ ] UI design
-- [x] Join System
-- [x] Identity System
-- [ ] Command System
-- [x] TextMessage System 
-- [x] Audio System
-- [x] License System
-- [x] Party System
-- [x] Servers System
-- [x] <a target="_blank" href="https://files.catbox.moe/zpaqgf.PNG">Aview</a>
-- [ ] Packet System
+| System | Status |
+| --- | --- | 
+| UI design | ✖️  |
+| Join System | ✔️   |
+| Identity System | ✔️   |
+| Command System | ✖️  |
+| TextMessage System | ✔️   |
+| Audio System | ✔️   |
+| License System | ✔️   |
+| Party System | ✔️   |
+| Servers System | ✔️   |
+| <a target="_blank" href="https://files.catbox.moe/zpaqgf.PNG">Aview</a> | ✔️   |
+| Packet System | ✖️  |
 
 # Exploits
 ### Info
