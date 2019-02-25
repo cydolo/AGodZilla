@@ -26,20 +26,24 @@
 ![#DA70D6](https://placehold.it/15/48D1CC/000000?text=+) `Released at 14.12.2018`  
 
 # Development
+- AGodZilla will soon become a better modified client, with more options, such as sending custom commands and a new UI  
 
-- [x] UI design
+- [ ] UI design
 - [x] Join System
 - [x] Identity System
-- [x] Command System
+- [ ] Command System
 - [x] TextMessage System 
 - [x] Audio System
 - [x] License System
 - [x] Party System
 - [x] Servers System
-- [x] AView   
-   <a target="_blank" href="https://files.catbox.moe/zpaqgf.PNG">Image</a>
+- [x] <a target="_blank" href="https://files.catbox.moe/zpaqgf.PNG">Aview</a>
+- [ ] Packet System
 
 # Exploits
+### Info
+- Although the exploits have been fixed, we will continue to search for other exploits and build them into AGodZilla.
+- All crashes or exploits will now always be in AGodZilla.
 
 ### Hotfix
 TeamSpeak has resolved the exploits, the exploits only work on version 3.5.0 and earlier
