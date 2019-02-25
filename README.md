@@ -52,6 +52,13 @@ TeamSpeak has resolved the exploits, the exploits only work on version 3.5.0 and
 The licensing system runs on a TeamSpeak identity. to license the license, I only need the UUID of the identity.   
 Then you just have to upload the identity into AGodZilla, if the license is correct, you can use the exploits.
 
+### Activate Exploits
+
+- To enable the exploits you need to export the identity, follow these steps:  
+`TeamSpeak: Extras > identities > right click on the registered identity > Export`
+- Now you need to upload this identity to AGodZilla, this works like this:  
+`AGodZilla: Red Heart > Activate > Upload the identity`
+
 ### Current Exploits
 With the new development of AGodZilla we have found exploits. These exploits work on every server.  
 These exploits currently work:  
