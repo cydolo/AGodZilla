@@ -31,16 +31,16 @@
 | System | Status |
 | --- | --- | 
 | UI design | ✖️ 50 % |
-| Join System | ✖️   |
-| Identity System | ✖️   |
-| Command System | ✖️  |
-| TextMessage System | ✖️   |
-| Audio System | ✖️   |
-| License System | ✖️   |
-| Party System | ✖️   |
-| Servers System | ✖️   |
-| <a target="_blank" href="https://files.catbox.moe/zpaqgf.PNG">Aview</a> | ✖️   |
-| Packet System | ✖️  |
+| Join System | ✖️ 0 % |
+| Identity System | ✖️ 0 % |
+| Command System | ✖️ 0 % |
+| TextMessage System | ✖️ 0 % |
+| Audio System | ✖️ 0 % |
+| License System | ✖️ 0 % |
+| Party System | ✖️ 0 % |
+| Servers System | ✖️ 0 % |
+| <a target="_blank" href="https://files.catbox.moe/zpaqgf.PNG">Aview</a> | ✖️ 0 % |
+| Packet System | ✖️ 0 % |
 
 # Exploits
 ### Info
