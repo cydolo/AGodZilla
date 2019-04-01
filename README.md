@@ -4,7 +4,7 @@
   <br>
     <b>Version: 3.2.0 </b>
   <br>
-<a href="https://gitlab.com/cydolo/agodzilla/releases" target="_blank">
+<a href="https://github.com/cydolo/AGodZilla/releases" target="_blank">
   <img height="50" weight="50" align="center" src="https://pngimage.net/wp-content/uploads/2018/05/button-flat-png-7.png"/>
 </a>
 
