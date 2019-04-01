@@ -83,8 +83,8 @@ These exploits currently work:
 | `Talkpower` | You can use the audio system to play music from the bot. | ![#32CD32](https://placehold.it/15/AD3B22/000000?text=+)  |
 | `TalkpowerRequest` | The bot requests talkpower, even if no talkpower is needed in the channel. | ![#32CD32](https://placehold.it/15/AD3B22/AD3B22?text=+) |
 | `Avatar` | Avatar on every server | ![#32CD32](https://placehold.it/15/AD3B22/000000?text=+) |
-| `Client Undefined` | The client Undefined exploit connects the bot to the server and can not be controlled, the bot will remain on the server forever unless an admin kicks it. The connection information can not be retrieved. The client can not be banned normally, the ban is set, but the bot is not thrown by the server, after a kick, the bot can not connect anymore when he is banned. if client undefined is connected, a message is displayed in the log "please do not hack me" ![AGodZilla](https://files.catbox.moe/yk4u7d.PNG)| ![#32CD32](https://placehold.it/15/AD3B22/000000?text=+)  |
-| `Self Kick` | With self kick the client is kicked by the server with the message **protocol violation** | ![#32CD32](https://placehold.it/15/AD3B22/000000?text=+) |
+| `Client Undefined` | The client Undefined exploit connects the bot to the server and can not be controlled, the bot will remain on the server forever unless an admin kicks it. The connection information can not be retrieved. The client can not be banned normally, the ban is set, but the bot is not thrown by the server, after a kick, the bot can not connect anymore when he is banned. if client undefined is connected, a message is displayed in the log "please do not hack me" ![AGodZilla](https://files.catbox.moe/yk4u7d.PNG)| ![#32CD32](https://placehold.it/15/32CD32/000000?text=+)  |
+| `Self Kick` | With self kick the client is kicked by the server with the message **protocol violation** | ![#32CD32](https://placehold.it/15/32CD32/000000?text=+) |
 
 ![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `Fixed`  
 ![#32CD32](https://placehold.it/15/32CD32/000000?text=+) `Not Fixed` 
