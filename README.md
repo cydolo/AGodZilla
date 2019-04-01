@@ -1,10 +1,10 @@
-<p align="center">
+<div align="center">
   <br>
   <img width="200" height="100" alt="Logo" src="https://files.catbox.moe/1tk07f.png" />
   <br>
-    <b>Version: 3.0.5 </b>
+    <b>Version: 3.1.0 </b>
   <br>
-<a href="https://github.com/cydolo/AGodZilla/releases" target="_blank">
+<a href="https://gitlab.com/cydolo/agodzilla/releases" target="_blank">
   <img height="50" weight="50" align="center" src="https://pngimage.net/wp-content/uploads/2018/05/button-flat-png-7.png"/>
 </a>
 
@@ -20,7 +20,7 @@
 <img  height="30" weight="30" src="http://i.imgur.com/tXSoThF.png"/>
 </a>    
   <br>
- </p>
+ </div>
 
 
 ![#DA70D6](https://placehold.it/15/48D1CC/000000?text=+) `Released at 14.12.2018`  
@@ -43,20 +43,26 @@
 | Packet System | ✖️ `0 %` |
 
 # Exploits
+
+- Teamspeak wanted to fix the exploits but only fixed the recording.
+> === Server Release 3.5.1 18 December 2018
+Fixed: Exploits that allowed to bypass permission checks.
+       The exploits allowed to gain talk power and channel commander temporarily,
+       to set their own avatar and client descriptions,
+       and made it possible to prevent a client ban.
+
+
 ### Info
+![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `Exploits can only be used with a license`    
 - Although the exploits have been fixed, we will continue to search for other exploits and build them into AGodZilla.
 - All crashes or exploits will now always be in AGodZilla.
 
-### Hotfix
-TeamSpeak has resolved the exploits, the exploits only work on version 3.5.0 and earlier
+### Register License
+- Connect to our [discord](https://discordapp.com/invite/ZwgMfNz) server and write in the `#license` room 
+> #add 'your unique id'
+- Example 
+> #add KyO8nLcnlvZ1LlUxB/fiV3jINYE=
 
-- [TeamSpeak Hotfix](https://forum.teamspeak.com/threads/138368-TeamSpeak-3-server-3-5-1-hotfix-released?p=464166#post464166)  
-
-### License
-![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `Exploits can only be used with a license`    
-
-The licensing system runs on a TeamSpeak identity. to license the license, I only need the UUID of the identity.   
-Then you just have to upload the identity into AGodZilla, if the license is correct, you can use the exploits.
 
 ### Activate Exploits
 
@@ -71,14 +77,14 @@ These exploits currently work:
 
 | Exploit | Description | Status |
 | --- | --- | --- | 
-| `ChannelCommander` | Channel Commander in every channel | ![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) |
-| `Recording` | this is not really an exploit, but the sound "user in your channel started recording" is only played when a user clicks on the bot | ![#32CD32](https://placehold.it/15/32CD32/000000?text=+) |
-| `Client Description` | Description on every server | ![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) |
-| `Talkpower` | You can use the audio system to play music from the bot. | ![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+)  |
-| `TalkpowerRequest` | The bot requests talkpower, even if no talkpower is needed in the channel. | ![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) |
-| `Avatar` | Avatar on every server | ![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) |
-| `Client Undefined` | The client Undefined exploit connects the bot to the server and can not be controlled, the bot will remain on the server forever unless an admin kicks it. The connection information can not be retrieved. The client can not be banned normally, the ban is set, but the bot is not thrown by the server, after a kick, the bot can not connect anymore when he is banned. if client undefined is connected, a message is displayed in the log "please do not hack me" ![AGodZilla](https://files.catbox.moe/yk4u7d.PNG)| ![#AD3B22](https://placehold.it/15/32CD32/000000?text=+)  |
-| `Self Kick` | With self kick the client is kicked by the server with the message **protocol violation** | ![#32CD32](https://placehold.it/15/32CD32/000000?text=+) |
+| `ChannelCommander` | Channel Commander in every channel | ![#32CD32](https://placehold.it/15/AD3B22/000000?text=+) |
+| `Recording` | this is not really an exploit, but the sound "user in your channel started recording" is only played when a user clicks on the bot | ![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) |
+| `Client Description` | Description on every server | ![#32CD32](https://placehold.it/15/AD3B22/000000?text=+) |
+| `Talkpower` | You can use the audio system to play music from the bot. | ![#32CD32](https://placehold.it/15/AD3B22/000000?text=+)  |
+| `TalkpowerRequest` | The bot requests talkpower, even if no talkpower is needed in the channel. | ![#32CD32](https://placehold.it/15/AD3B22/AD3B22?text=+) |
+| `Avatar` | Avatar on every server | ![#32CD32](https://placehold.it/15/AD3B22/000000?text=+) |
+| `Client Undefined` | The client Undefined exploit connects the bot to the server and can not be controlled, the bot will remain on the server forever unless an admin kicks it. The connection information can not be retrieved. The client can not be banned normally, the ban is set, but the bot is not thrown by the server, after a kick, the bot can not connect anymore when he is banned. if client undefined is connected, a message is displayed in the log "please do not hack me" ![AGodZilla](https://files.catbox.moe/yk4u7d.PNG)| ![#32CD32](https://placehold.it/15/AD3B22/000000?text=+)  |
+| `Self Kick` | With self kick the client is kicked by the server with the message **protocol violation** | ![#32CD32](https://placehold.it/15/AD3B22/000000?text=+) |
 
 ![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `Fixed`  
 ![#32CD32](https://placehold.it/15/32CD32/000000?text=+) `Not Fixed` 
