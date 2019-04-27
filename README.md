@@ -10,7 +10,7 @@
 
 
   <br>
-   <a href="https://discord.gg/ZwgMfNz" target="_blank">
+   <a href="https://discord.gg/dC3jWNd" target="_blank">
 <img  height="30" weight="30" src="https://image.spreadshirtmedia.net/image-server/v1/mp/designs/137963376,width=178,height=178/discord-logo.png"/>
 </a>  
  <a href="https://www.youtube.com/channel/UCgfXkVhgB1urzdvCJt6gR_w" target="_blank">
