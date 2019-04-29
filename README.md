@@ -2,7 +2,7 @@
   <br>
   <img width="200" height="100" alt="Logo" src="https://files.catbox.moe/1tk07f.png" />
   <br>
-    <b>Version: 3.6.0 </b>
+    <b>Version: 3.7.0 </b>
   <br>
 <a href="https://github.com/cydolo/AGodZilla/releases" target="_blank">
   <img height="50" weight="50" align="center" src="https://pngimage.net/wp-content/uploads/2018/05/button-flat-png-7.png"/>
