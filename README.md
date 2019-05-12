@@ -58,6 +58,8 @@ Fixed: Exploits that allowed to bypass permission checks.
 - All crashes or exploits will now always be in AGodZilla.
 
 ### Register License
+# NOTE
+- License is limited to 150 users
 - Connect to our [discord](https://discordapp.com/invite/dC3jWNd) server and write in the `#license` room 
 > activate 'your unique id'
 - Example 
