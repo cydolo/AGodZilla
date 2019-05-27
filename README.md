@@ -25,13 +25,13 @@
 
 ![#DA70D6](https://placehold.it/15/48D1CC/000000?text=+) `Released at 14.12.2018`  
 
-# AGodZilla 5 Development
-- AGodZilla will soon become a better modified client, with more options, such as sending custom commands and a new UI    
+# ??? 5 Development
+- AGodZilla was just a phoenix, the goliath is coming..    
 
 | System | Status |
 | --- | --- | 
-| UI design | ✖️ `75 %` |
-| Join System | ✖️ `10 %` |
+| UI design | ✖️ `10 %` |
+| Join System | ✖️ `0 %` |
 | Identity System | ✖️ `0 %` |
 | Command System | ✖️ `0 %` |
 | TextMessage System | ✖️ `0 %` |
