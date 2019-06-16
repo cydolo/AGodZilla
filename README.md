@@ -59,7 +59,7 @@ Fixed: Exploits that allowed to bypass permission checks.
 
 ### Register License
 #### NOTE
-- License is limited to 120 users
+- License is limited to 200 users
 - Connect to our [discord](https://discordapp.com/invite/dC3jWNd) server and write in the `#license` room 
 > activate 'your unique id'
 - Example 
