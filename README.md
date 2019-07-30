@@ -51,26 +51,9 @@ Fixed: Exploits that allowed to bypass permission checks.
        and made it possible to prevent a client ban.
 
 
-### Info
-![#AD3B22](https://placehold.it/15/AD3B22/000000?text=+) `Exploits can only be used with a license`    
-- Although the exploits have been fixed, we will continue to search for other exploits and build them into AGodZilla.
-- All crashes or exploits will now always be in AGodZilla.
-
-### Register License
-#### NOTE
-- License is limited to 200 users
-- Connect to our [discord](https://discordapp.com/invite/dC3jWNd) server and write in the `#license` room 
-> activate 'your unique id'
-- Example 
-> activate KyO8nLcnlvZ1LlUxB/fiV3jINYE=
-
-
-### Activate Exploits
-
-- To enable the exploits you need to export the identity, follow these steps:  
-`TeamSpeak: Extras > identities > right click on the registered identity > Export`
-- Now you need to upload this identity to AGodZilla, this works like this:  
-`AGodZilla: Red Heart > Activate > Upload the identity`
+### LICENSE
+ - **WE DO NOT ACCEPT LICENSES ANYMORE YOU DONT NEED TO ASK FOR A LICENSE.**
+ 
 
 ### Current Exploits
 With the new development of AGodZilla we have found exploits. These exploits work on every server.  
