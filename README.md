@@ -27,32 +27,10 @@
 # ??? 5 Development
 - AGodZilla was just a phoenix, the goliath is coming..    
 
-| System | Status |
-| --- | --- | 
-| UI design | ✖️ `10 %` |
-| Join System | ✖️ `0 %` |
-| Identity System | ✖️ `0 %` |
-| Command System | ✖️ `0 %` |
-| TextMessage System | ✖️ `0 %` |
-| Audio System | ✖️ `0 %` |
-| License System | ✖️ `0 %` |
-| Party System | ✖️ `0 %` |
-| Servers System | ✖️ `0 %` |
-| <a target="_blank" href="https://files.catbox.moe/zpaqgf.PNG">Aview</a> | ✖️ `0 %` |
-| Packet System | ✖️ `0 %` |
-
 # Exploits
 
-- Teamspeak wanted to fix the exploits but only fixed the recording.
-> === Server Release 3.5.1 18 December 2018
-Fixed: Exploits that allowed to bypass permission checks.
-       The exploits allowed to gain talk power and channel commander temporarily,
-       to set their own avatar and client descriptions,
-       and made it possible to prevent a client ban.
-
-
 ### LICENSE
- - **WE DO NOT ACCEPT LICENSES ANYMORE YOU DONT NEED TO ASK FOR A LICENSE.**
+ - the license file is on our <a href="https://discord.gg/dC3jWNd">Discord</a> server
  
 
 ### Current Exploits
